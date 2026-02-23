@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Banco local
+*.db
+
+# Cache
+__pycache__/
+*.pyc
